@@ -1,1 +1,26 @@
 
+  boringQuestions ={
+  question: What is 2+2?
+  answers:{
+    a:2
+    b:3
+    c:I don't know
+},
+ correctAnswer:'a'
+{
+  
+ questions: Where is St.John's University located?
+  answers:{
+    a: Nebraska
+    b: New York
+    c: What school is that?
+},
+ correctAnswer:'b'
+ question: Java is a
+  answers:{
+    a:brand of coffee
+    b:school
+    c:progrmaming langauge
+},
+ correctAnswer:'c'
+}
