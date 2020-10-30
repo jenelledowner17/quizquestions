@@ -1,6 +1,6 @@
-
-  boringQuestions ={
-  question: What is 2+2?
+{
+  "boringQuestions" =[
+  question": What is 2+2?
   answers:{
     a:2
     b:3
@@ -23,4 +23,5 @@
     c:progrmaming langauge
 },
  correctAnswer:'c'
+]
 }
